@@ -5,3 +5,5 @@ ver. 1.0
 - excel (belum bisa generate criteria random misal by juz / jilid / by dars
 - sqlite
 
+
+![alt text](image.png)
