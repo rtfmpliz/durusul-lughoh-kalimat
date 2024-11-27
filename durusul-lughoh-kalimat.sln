@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "durusul-lughoh-kalimat", "durusul-lughoh-kalimat\durusul-lughoh-kalimat\durusul-lughoh-kalimat.csproj", "{A8BC7255-7E20-4868-B76C-6F521C5EB72E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "durusul-lughoh-kalimat.Client", "durusul-lughoh-kalimat\durusul-lughoh-kalimat.Client\durusul-lughoh-kalimat.Client.csproj", "{63E0FA72-B7F3-44DE-86E5-703131BEFFEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BC7255-7E20-4868-B76C-6F521C5EB72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BC7255-7E20-4868-B76C-6F521C5EB72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BC7255-7E20-4868-B76C-6F521C5EB72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BC7255-7E20-4868-B76C-6F521C5EB72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E0FA72-B7F3-44DE-86E5-703131BEFFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E0FA72-B7F3-44DE-86E5-703131BEFFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E0FA72-B7F3-44DE-86E5-703131BEFFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E0FA72-B7F3-44DE-86E5-703131BEFFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2866B4-E0E6-4563-BF4E-CEADF5F38A57}
+	EndGlobalSection
+EndGlobal
